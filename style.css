@@ -1,0 +1,23 @@
+.love {
+    color: orange
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    padding-left: 3%;
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    padding border-radius: 10px;
+}
